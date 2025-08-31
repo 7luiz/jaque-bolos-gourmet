@@ -24,22 +24,22 @@
 //---LINKS DE DEMONSTRAÇÃO ABAIXO: TROQUE PELO SEUS LINKS
 
 // URL of the spreadsheet with menu items (tab: Items)
-const MENU_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTyhSoWbk-NBIHgqaK-7KwKBQSV7FpRKh91xd4nAv1t7Tg_fV0AeVIaQIu2Z3GRC445CVPYfTXnGJPK/pub?gid=1132427241&single=true&output=csv';
+const MENU_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQu5pyVG27Zy_Y--lSN_XJ_eL6_Z0XA9nQ8MnPkUX065WMMc0gGod0usBs6S8ED6hWmqIff42PyOrEO/pub?gid=0&single=true&output=csv';
 
 // URL of the spreadsheet with menu categories (tab: Categories)
-const CATEGORIES_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTyhSoWbk-NBIHgqaK-7KwKBQSV7FpRKh91xd4nAv1t7Tg_fV0AeVIaQIu2Z3GRC445CVPYfTXnGJPK/pub?gid=271394769&single=true&output=csv';
+const CATEGORIES_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQu5pyVG27Zy_Y--lSN_XJ_eL6_Z0XA9nQ8MnPkUX065WMMc0gGod0usBs6S8ED6hWmqIff42PyOrEO/pub?gid=1065203376&single=true&output=csv';
 
 // URL of the spreadsheet with general settings (tab: Config)
-const CONFIG_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTyhSoWbk-NBIHgqaK-7KwKBQSV7FpRKh91xd4nAv1t7Tg_fV0AeVIaQIu2Z3GRC445CVPYfTXnGJPK/pub?gid=0&single=true&output=csv';
+const CONFIG_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQu5pyVG27Zy_Y--lSN_XJ_eL6_Z0XA9nQ8MnPkUX065WMMc0gGod0usBs6S8ED6hWmqIff42PyOrEO/pub?gid=1897800681&single=true&output=csv';
 
 // URL of the spreadsheet with operating hours (tab: Hours)
-const HOURS_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTyhSoWbk-NBIHgqaK-7KwKBQSV7FpRKh91xd4nAv1t7Tg_fV0AeVIaQIu2Z3GRC445CVPYfTXnGJPK/pub?gid=1842804489&single=true&output=csv';
+const HOURS_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQu5pyVG27Zy_Y--lSN_XJ_eL6_Z0XA9nQ8MnPkUX065WMMc0gGod0usBs6S8ED6hWmqIff42PyOrEO/pub?gid=1172841038&single=true&output=csv';
 
 // URL of the spreadsheet with neighborhoods and delivery fees (tab: Bairros) **OPCIONAL**
-const NEIGHBORHOODS_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTyhSoWbk-NBIHgqaK-7KwKBQSV7FpRKh91xd4nAv1t7Tg_fV0AeVIaQIu2Z3GRC445CVPYfTXnGJPK/pub?gid=1634629476&single=true&output=csv';
+const NEIGHBORHOODS_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQu5pyVG27Zy_Y--lSN_XJ_eL6_Z0XA9nQ8MnPkUX065WMMc0gGod0usBs6S8ED6hWmqIff42PyOrEO/pub?gid=2063612589&single=true&output=csv';
 
 // URL da planilha de cupons de desconto  **OPCIONAL**
-const COUPONS_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTyhSoWbk-NBIHgqaK-7KwKBQSV7FpRKh91xd4nAv1t7Tg_fV0AeVIaQIu2Z3GRC445CVPYfTXnGJPK/pub?gid=1144201431&single=true&output=csv';
+const COUPONS_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQu5pyVG27Zy_Y--lSN_XJ_eL6_Z0XA9nQ8MnPkUX065WMMc0gGod0usBs6S8ED6hWmqIff42PyOrEO/pub?gid=1266416684&single=true&output=csv';
 
 
 // ====================================================================
